@@ -40,11 +40,26 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/emplo
 2. Clone Repository\
    Clone Repository menggunakan git
    ```
-   git clone 
-4.  
-```
-
-```
+   git clone https://github.com/rafifardhana1503/human_resources_attrition
+   cd human_resources_attrition
+   ```
+3. Setup Google Colab
+   ```
+   Python 3.11.12
+   ```
+   Penggunaan Google Colab sudah menyediakan versi Python terbaru secara default. Sebagian besar library populer sudah kompatibel, sehingga tidak perlu menginstall requirements.txt 
+4. Setup Looker Studio
+   - Membuat **Blank Report**
+   - Koneksikan data dengan **Upload File csv** `employee_data_cleaned.csv`
+   - Kemudian klik **Add Data to Report**
+   - Sesuaikan layout menggunakan **Responsive Layout**
+   - Dataset dan canvas dashboard telah tersedia dan dapat digunakan untuk visualisasi data
+5. Setelah seluruh proses setup selesai, Anda bisa menjalankan skrip utama atau mulai melakukan proses prediksi.
+   - Untuk menjalankan analisis utama terdapat pada notebook.ipynb
+   - Untuk mencoba prediksi menggunakan data dummy
+     ```
+     python prediction.py
+     ```   
 
 ## Business Dashboard
 
