@@ -85,8 +85,8 @@ Dashboard ini mencakup
 8. **Attrition Impact by Over Time**
    - Menampilkan donut chart yang menunjukkan bahwa sebanyak **54.7% karyawan** yang lembur (Over Time) dari total keseluruhan karyawan mengalami attrition
 9. **Attrition by Total Working (Years)**
-    - Menampilkan histogram yang menunjukkan bahwa karyawan dengan rentang kerja 0- 5 tahun dan 5-10 tahun memiliki angka attrition yang terbilang tinggi. Angka attrition menurun seiring dengan bertambahnya pengalaman kerja
-10. **Attrition by Monthly Income (&)**
+    - Menampilkan histogram yang menunjukkan bahwa karyawan dengan rentang kerja **0- 5 tahun** dan **5-10 tahun** memiliki angka attrition yang terbilang tinggi. Angka attrition menurun seiring dengan bertambahnya pengalaman kerja
+10. **Attrition by Monthly Income ($)**
     - Menampilkan histogram yang menunjukkan bahwa karyawan dengan gaji rentang **$2000 - $5000** memiliki angka attrition tertinggi (**112 karyawan**). Angka attrition menurun seiring bertambahnya pendapatan per bulan
 
 Link Dashboard: [Attrion Dashboard Jaya Jaya Maju](https://lookerstudio.google.com/reporting/3e78d192-1206-45e7-aec0-f48b90d8d693)
