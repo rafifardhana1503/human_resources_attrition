@@ -39,6 +39,8 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/emplo
    - Google Looker Studio: [Looker Studio](https://lookerstudio.google.com/u/0/navigation/reporting)
 2. Clone Repository\
    Clone Repository menggunakan git
+   ```
+   git clone 
 4.  
 ```
 
