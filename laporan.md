@@ -62,8 +62,19 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/emplo
      ```   
 
 ## Business Dashboard
+Perancangan Business Dahboard diharapkan dapat membantu departemen HR untuk monitoring berbagai faktor yang mempengaruhi attrition rate karyawan. Dashboard ini memberikan visualisasi data yang informatif terhadap faktor resiko utama karyawan keluar, pola data, dan korelasi antar variabel,
 
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+Dashboard ini mencakup
+1. **KPI (Key Performance Indicator) Section**\
+   Section ini berisikan gambaran umum terkait attrition pada perusahaan Jaya Jaya Maju
+   - **Overall Attrition (%)**: Menampilkan persentase attrition (karyawan keluar) terhadap total karyawan, yaitu **16.92%**. Dapat memberikan gambaran seberapa besar attrition rate pada perusahaan.
+   - **Total Employees**: Menampilkan jumlah keseluruhan karyawan perusahaan, yaitu **1,058** karyawan
+   - **Total Attrtion**: Menampilkan jumlah karyawan yang keluar, yaitu **179** karyawan
+2. **Attrition by Marital Status**
+   - Menampilkan bar chart yang menunjukkan bahwa karyawan dengan status **Single** memiliki angka attrition tertinggi (**92 karyawan**), diikuti dengan status **Married** (**62 karyawan**) dan **Divorced** (**23 karyawan**)
+3. **Attrition by Age**
+   - 
+5.     
 
 ## Conclusion
 
