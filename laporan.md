@@ -95,7 +95,7 @@ Dashboard ini mencakup
 Link Dashboard: [Attrion Dashboard Jaya Jaya Maju](https://lookerstudio.google.com/reporting/3e78d192-1206-45e7-aec0-f48b90d8d693)
 
 ## Conclusion
-Proyek Human Resources (HR) ini berhasil menemukan faktor-faktor kunci yang berkontribusi terhadap tingginya tingkat attrition karyawan di perusahaan Jaya Jaya Maju. Melalui proses analisis data dan pengembangan business dashboard, diketahui bahwa variabel seperti status pernikahan (Marital Status), usia (Age), hak memegang saham (Option Stock Level), level pekerjaan (Job Level), pendapatan bulanan (Monthly Income), dan total pengalaman kerja (Total Working Years) memiliki pengaruh signifikan terhadap keputusan karyawan untuk keluar.
+Proyek Human Resources (HR) ini berhasil menemukan faktor-faktor kunci yang berkontribusi terhadap tingginya tingkat attrition karyawan di perusahaan Jaya Jaya Maju. Melalui proses analisis data dan pengembangan business dashboard, diketahui bahwa variabel seperti lembur (Over Time), status pernikahan (Marital Status), usia (Age), hak memegang saham (Option Stock Level), level pekerjaan (Job Level), pendapatan bulanan (Monthly Income), dan total pengalaman kerja (Total Working Years) memiliki pengaruh signifikan terhadap keputusan karyawan untuk keluar.
 
 Selain itu, model prediksi yang dibangun mampu memperkirakan risiko attrition dengan tingkat akurasi yang cukup baik dan memadai.
 
