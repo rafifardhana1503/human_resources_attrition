@@ -62,8 +62,8 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/emplo
    - Untuk mencoba prediksi menggunakan data dummy
      ```
      python prediction.py
-     ```   
-
+     ```
+     File ini perlu dijalankan dengan menggunakan file `model.pkl` sebagai model yang akan digunakan pada data dummy dan `scaler.pkl` sebagai alat standarisasi data dummy
 ## Business Dashboard
 Perancangan Business Dahboard diharapkan dapat membantu departemen HR untuk monitoring berbagai faktor yang mempengaruhi attrition rate karyawan. Dashboard ini memberikan visualisasi data yang informatif terhadap faktor resiko utama karyawan keluar, pola data, dan korelasi antar variabel,
 
