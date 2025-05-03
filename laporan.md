@@ -12,7 +12,7 @@ Untuk mengatasi permasalahan ini, manajer departemen HR memutuskan untuk mengana
    Apa saja faktor yang memengaruhi keputusan karyawan untuk keluar?
 2. **Memprediksi Potensi Risiko Karyawan Melakukan Attrition**\
    Bagaimana cara memprediksi karyawan yang berisiko keluar lebih awal?   
-3. **Membangun Visualisasi Data yang Informatif**
+3. **Membangun Visualisasi Data yang Informatif**\
    Bagaimana membuat tim HR dapat memantau faktor-faktor risiko tersebut melalui visualisasi yang mudah dipahami?
 
 ### Cakupan Proyek
@@ -33,14 +33,14 @@ Perusahaan menyediakan dataset yang memuat data terkait karyawan, mencakup aspek
 
 Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee
 
-**Setup environment:**\
+**Setup environment:**
 1. Prasyarat Tools
    - Google Colab: [Google Colab](https://colab.research.google.com/)
    - Google Looker Studio: [Looker Studio](https://lookerstudio.google.com/u/0/navigation/reporting)
 2. Clone Repository\
    Clone Repository menggunakan git
    ```
-   git clone https://github.com/rafifardhana1503/human_resources_attrition
+   git clone https://github.com/username/human_resources_attrition
    cd human_resources_attrition
    ```
 3. Setup Google Colab
@@ -82,7 +82,7 @@ Dashboard ini mencakup
 5. **Attrition by Department**
    - Menampilkan vertikal bar chart yang menunjukkan bahwa department **Research & Development** memiliki angka attrition tertinggi (**107 karyawan**), dikuti department **Sales** (**66 karyawan**) dan **Human Resources** (**6 karyawan**) 
 6. **Attrition by Job Role**
-   - Menampilkan tabel jumlah attrition dan attrition rate berdasarkan Job Role, tabel tersebut menunjukkan jika disort berdasarkan jumlah attrition, **Laboratory Technician** memiliki nilai tertinggi (**49 karyawan**). Akan tetapi, jika disort berdasarkan rasio attrition, **Sales Representativi** menunjukkan rasio tertinggi sebesar **43.10%**
+   - Menampilkan tabel jumlah attrition dan attrition rate berdasarkan Job Role, tabel tersebut menunjukkan jika disort berdasarkan jumlah attrition, **Laboratory Technician** memiliki nilai tertinggi (**49 karyawan**). Akan tetapi, jika disort berdasarkan rasio attrition, **Sales Representative** menunjukkan rasio tertinggi sebesar **43.10%**
 7. **Attrition by Job Level**
    - Menampilkan horizontal bar chart yang menunjukkan bahwa karyawan dengan **Job Level yaitu 1**,  memiliki angka attrition tertinggi (**108 karyawan**). Angka attrition menurun seiring karyawan memiliki peningkatan Job Level.
 8. **Attrition Impact by Over Time**
@@ -101,7 +101,7 @@ Selain itu, model prediksi yang dibangun mampu memperkirakan risiko attrition de
 
 Dashboard interaktif yang dirancang dapat memberikan visualisasi yang jelas dan berguna bagi tim HR dalam memantau kondisi karyawan secara langsung dan mengenali aspek-aspek yang memerlukan perhatian khusus.
 
-### Rekomendasi Action Items (Optional)
+### Rekomendasi Action Items
 1. **Menerapkan program Career Path yang jelas**
    - Karyawan akan cenderung bertahan lebih lama jika mereka tahu ke mana arah karir mereka di perusahaan, merasa kemajuan karir bisa dicapai dengan adil dan terpantau, serta memiliki tujuan yang selaras dengan perkembangan perusahaan
 2. **Menerapkan program pengembangan karyawan**
