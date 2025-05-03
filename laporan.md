@@ -55,7 +55,10 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/emplo
    - Sesuaikan layout menggunakan **Responsive Layout**
    - Dataset dan canvas dashboard telah tersedia dan dapat digunakan untuk visualisasi data
 5. Setelah seluruh proses setup selesai, Anda bisa menjalankan skrip utama atau mulai melakukan proses prediksi.
-   - Untuk menjalankan analisis utama terdapat pada attrition_predictive_notebook.ipynb
+   - Untuk menjalankan analisis utama terdapat pada
+     ```
+     attrition_predictive_notebook.ipynb
+     ```
    - Untuk mencoba prediksi menggunakan data dummy
      ```
      python prediction.py
